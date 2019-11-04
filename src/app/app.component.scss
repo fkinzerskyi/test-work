@@ -1,0 +1,14 @@
+.example-table-container {
+  padding: 40px 60px;
+  table {
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  .mat-form-field-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+}
